@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Sulman Mechanisatie
+subtitle: Lorem ipsum dolor sit amet
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Yukka test site!
@@ -10,12 +10,9 @@ blurb:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 intro:
-  heading: What we offer
+  heading: Services
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
